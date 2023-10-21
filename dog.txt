@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dog Breeds</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">List of Cat Breeds</h1>
+    
+    <table border="5" cellspacing="0" align="center">
+        <tr>
+            <th>Breed</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>American Bulldog</td>
+            <td>TAmerican Bulldogs are a well-balanced athletic dog that demonstrate great strength, endurance, agility, and a friendly attitude. Historically, they were bred to be a utility dog used for working the farm.</td>
+        </tr>
+        <tr>
+            <td>Boerboel</td>
+            <td>Boerboels are intimidating but discerning guardians of home and family .</td>
+        </tr>
+        <tr>
+            <td>Bulldog</td>
+            <td>Kind but courageous, friendly but dignified.</td>
+        </tr>
+        <tr>
+            <td> Doberman Pinscher</td>
+            <td>Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen.</td>
+        </tr>
+        <tr>
+             <td>German Shepherd Dog</td>
+             <td>Generally considered dogkind's finest all-purpose worker, the German Shepherd Dog is a large, agile, muscular dog of noble character and high intelligence</td>
+        </tr>
+     
+    </table>
+<br>
+        <div class="cat-gallery">
+        <img class="cat-image" src="cat3.jpeg" alt="Cat 1">
+        <img class="cat-image" src="cat2.jpeg" alt="Cat 2">
+        <img class="cat-image" src="cat1.jpeg" alt="Cat 3">
+        <img class="cat-image" src="cat4.jpeg" alt="Cat 4">
+    </div>
+        
+      
+</body>
+</html>
